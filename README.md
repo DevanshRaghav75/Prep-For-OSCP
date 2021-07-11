@@ -190,3 +190,21 @@ A collection of resources and a guide for <a href="https://www.offensive-securit
 **Linux**
 
 * <a href="https://www.udemy.com/course/linux-privilege-escalation/">Linux-privilege-escalation</a>
+
+## Play Ctfs 
+
+* <a href="https://www.offensive-security.com/labs/individual/">Offensive Security Proving Grounds</a>
+* <a href="https://www.virtualhackinglabs.com/">Virtualhackinglabs</a>
+* <a href="https://www.hackthebox.eu/">HackTheBox</a>
+* <a href="https://www.vulnhub.com/">vulnhub</a>
+* <a href="https://www.root-me.org/">root-me</a>
+* <a href="https://tryhackme.com/">TryHackMe</a>
+* <a href="https://overthewire.org/wargames/">Overthewire</a>
+
+## Web Application Attacks
+
+* <a href="https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)">cross-site scripting (XSS)</a>
+* <a href="https://www.owasp.org/index.php/SQL_Injection">SQL Injection</a>
+* <a href="https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/">File Inclusion Vulnerabilities</a>
+
+**Thank you and if you find this repo helpfull then please give a star on this repo**
