@@ -207,4 +207,4 @@ A collection of resources and a guide for <a href="https://www.offensive-securit
 * <a href="https://www.owasp.org/index.php/SQL_Injection">SQL Injection</a>
 * <a href="https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/">File Inclusion Vulnerabilities</a>
 
-**Thank you and if you find this repo helpfull then please give a star on this repo**
+**Thank you and if you find this repo helpful then please give a star on this repo**
