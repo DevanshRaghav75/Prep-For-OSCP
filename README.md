@@ -1,5 +1,5 @@
 # Prep-For-OSCP
-A collection of resources and a guide for <a href="https://www.offensive-security.com/pwk-oscp/">OSCP preparation.</a> 
+A collection of resources and a guide for <a href="https://www.offensive-security.com/pwk-oscp/">OSCP</a> preparation.
 
 ## What is OSCP? 
 
