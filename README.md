@@ -170,7 +170,7 @@ A collection of resources and a guide for <a href="https://www.offensive-securit
 
 **Learn**
 
-* <a href="https://www.youtube.com/watch?v=1S0aBV-Waeo">Buufer overflow attack - computerphile</a>
+* <a href="https://www.youtube.com/watch?v=1S0aBV-Waeo">Buffer overflow attack - computerphile</a>
 * <a href="https://www.youtube.com/playlist?list=PLkW9FMxqUvyYNgV6nObJgAioovWLbsZtq">Buffer overflows - Bitten tech</a>
 * <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer overflows made easy - The Cyber Mentor</a>
 * <a href="https://www.youtube.com/watch?v=yJF0YPd8lDw">Basic Buffer overflow - John Hammond</a>
